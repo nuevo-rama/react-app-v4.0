@@ -8,6 +8,7 @@ const If = () => {
   return ( 
 
     <Fragment>
+      <h3>Component If {items} </h3>
       <h3>
         { 
         items > 0 ? 'Not Empty' : 'Empty'
