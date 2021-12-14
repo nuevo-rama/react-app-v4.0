@@ -11,7 +11,7 @@ const If = () => {
       <h3>Component If {items} </h3>
       <h3>
         { 
-        items > 0 ? 'Not Empty' : 'Empty'
+        items > 0 ? 'Not Empty' : 'Empty' //operador ternario
         }
       </h3>
 
