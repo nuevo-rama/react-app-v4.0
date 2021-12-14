@@ -1,6 +1,7 @@
 import Counter from './components/Counter';
 import If from './components/If';
 import Arrays from './components/Arrays';
+import AddElementArray from './components/AddElementArray';
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       <Counter />
       <If />
       <Arrays />
+      <AddElementArray />
     </div>
   );
 }
